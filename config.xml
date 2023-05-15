@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Paws 4 Thought Dogs</name>
+    <description>Paws 4 Thought Dogs App</description>
+    <author email="claire@paws4thoughtdogs.com" href="https://paws4thoughtdogs.com">
+        Paws 4 Thought Dogs
+    </author>
+    <content src="https://paws4thoughtdogs.com/" />
+    <allow-navigation href="*" />
+    <allow-navigation href="https://paws4thoughtdogs.com/*" />
+    <allow-navigation href="https://paws4thoughtdogs.com/*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>

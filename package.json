@@ -1,0 +1,23 @@
+{
+  "name": "io.cordova.p4t",
+  "displayName": "Paws 4 Thought Dogs",
+  "version": "1.0.0",
+  "description": "Paws 4 thought Dogs IOS App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Marco Baldanza",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-ios": "^6.3.0"
+  },
+  "cordova": {
+    "platforms": [
+      "ios"
+    ]
+  }
+}
